@@ -1,7 +1,18 @@
 .App {
   text-align: center;
 }
-
+body{
+  background-color: #282c34;
+}
+.container{
+  justify-content: center;
+  text-align: center;
+}
+.container h1{
+  font-size: 400%;
+  font-weight: bolder;
+  color: rgb(0, 203, 135);
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
